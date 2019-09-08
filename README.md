@@ -1,1 +1,1 @@
-# basic reat/redux with typescript
+# basic react/redux with typescript
