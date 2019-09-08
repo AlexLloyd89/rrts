@@ -1,1 +1,1 @@
-# rrts
+# basic reat/redux with typescript
